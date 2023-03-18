@@ -1,0 +1,16 @@
+@media (max-width: 630px) {
+    .testi-wrap {
+        padding: 0px 0px;
+    }
+    .miami-footer {
+        bottom: 0px;
+        box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.3);
+    }
+    .left-img-layouts {
+        float: left;
+        width: 100%;
+    }
+    .izotope-container .padd-none {
+        padding: 0px 2px 2px 2px;
+    }
+}
